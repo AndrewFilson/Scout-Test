@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_rsScouts" value="name:name;datatype:string,name:birth_date;datatype:date,name:rank;datatype:string,name:last_updated;datatype:date" />	<infoitem key="UD_rsFinishedBadges" value="name:badge_name;datatype:string,name:name;datatype:string" /></info>
